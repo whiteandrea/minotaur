@@ -2,6 +2,7 @@
 
 ## How to run 
 Cd into minotaurprob1 to run the second problem with the command java part1
+
 Cd into minotaurprob2 to run the second problem with the command java vase
 
 ## Problem 1 Strategy and Runtimes
